@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4527
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Renan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31440#Souvenirs-d-enfance-et-de-jeunesse
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2010-02-28'
 gutenberg_type: Text
